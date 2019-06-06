@@ -1,0 +1,22 @@
+{
+  "name": "@nteract/actions",
+  "version": "2.5.0",
+  "description": "A collection of actions",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "nteractDesktop": "src/index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "Safia Abdalla <safia@safia.rocks>",
+  "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@nteract/commutable": "^7.1.1",
+    "@nteract/messaging": "^6.0.5",
+    "@nteract/types": "^4.2.0",
+    "immutable": "^4.0.0-rc.12",
+    "rx-jupyter": "^5.2.0"
+  }
+}
