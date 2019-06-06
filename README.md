@@ -5,11 +5,11 @@ This package contains definitions of constants and action creators that can be u
 ## Installation
 
 ```
-$ yarn add @nteract/actions
+$ yarn add git+https://github.com/realtsiry/nteract-actions.git
 ```
 
 ```
-$ npm install --save @nteract/actions
+$ npm install --save git+https://github.com/realtsiry/nteract-actions.git
 ```
 
 ## Usage
